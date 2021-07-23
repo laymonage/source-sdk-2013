@@ -1,0 +1,3 @@
+[submodule "sp/src/utils/sapi51"]
+	path = sp/src/utils/sapi51
+	url = https://github.com/laymonage/ms-sapi51-fixed.git
